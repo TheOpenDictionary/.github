@@ -1,6 +1,9 @@
-![The Open Dictionary](./header.png)
 
 <div align="center">
+
+<img src="./main.png" width="250">
+
+<br/>
 
 We're on a mission to make language data more accessible for everyone :rocket:
 
