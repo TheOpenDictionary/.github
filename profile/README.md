@@ -1,9 +1,9 @@
 
 <div align="center">
 
-<img src="./main.png" width="250">
+<p><img src="./main.png" width="250"></p>
 
-<br/><br/>
+<br/>
 
 We're on a mission to make language data more accessible for everyone :rocket:
 
