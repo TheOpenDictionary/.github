@@ -1,12 +1,18 @@
-## Hi there 👋
+![The Open Dictionary](./header.png)
 
-<!--
+<div align="center">
 
-**Here are some ideas to get you started:**
+We're on a mission to make language data more accessible for everyone :rocket:
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+</div>
+
+<hr />
+
+<div align="center">
+
+![Sponsors](https://img.shields.io/github/sponsors/TheOpenDictionary?style=flat-square)
+![License](https://img.shields.io/github/license/TheOpenDictionary/odict?style=flat-square)
+![Maintained](https://img.shields.io/maintenance/yes/2022?style=flat-square)
+![Downloads](https://img.shields.io/github/downloads/TheOpenDictionary/odict/total?color=purple&style=flat-square)
+
+</div>
