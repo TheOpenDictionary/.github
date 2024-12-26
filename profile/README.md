@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<p><img src="./main.png" width="250"></p>
+<p><img src="https://raw.githubusercontent.com/TheOpenDictionary/.github/refs/heads/main/main.png" width="250"></p>
 
 <br/>
 
